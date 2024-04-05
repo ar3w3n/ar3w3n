@@ -1,4 +1,4 @@
-![изображение](https://github.com/ar3w3n/ar3w3n/assets/109085592/811d9590-21f0-4d8f-8baf-f2905ea414b0)<h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, I'm <a href="" target="_blank">Egor</a></h1>
+<h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, I'm <a href="" target="_blank">Egor</a></h1>
 <hr>
 <h2 align="center">Frontend developer</h2>
 <hr>
